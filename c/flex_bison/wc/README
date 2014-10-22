@@ -1,0 +1,4 @@
+flex wc.l
+gcc -o wc lex.yy.c -lfl
+
+cat /var/log/kern.log | ./wc
