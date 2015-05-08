@@ -1,4 +1,4 @@
-package cn.vobile.javalearn.reflect;
+package cn.vobile.java.reflect;
 
 /**
  * Created by vobile on 4/29/15.

@@ -1,6 +1,5 @@
-package cn.vobile.javalearn.threadpool;
+package cn.vobile.java.threadpool;
 
-import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 

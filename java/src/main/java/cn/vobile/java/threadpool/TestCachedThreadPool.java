@@ -1,4 +1,4 @@
-package cn.vobile.javalearn.threadpool;
+package cn.vobile.java.threadpool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

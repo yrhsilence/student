@@ -1,4 +1,4 @@
-package cn.vobile.javalearn.threadpool;
+package cn.vobile.java.threadpool;
 
 /**
  * Created by vobile on 5/7/15.
