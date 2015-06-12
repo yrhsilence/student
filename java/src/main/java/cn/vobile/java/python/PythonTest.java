@@ -1,11 +1,11 @@
-package cn.vobile.java.python;
+package cn.yrh.java.python;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by vobile on 5/12/15.
+ * Created by yrh on 5/12/15.
  */
 public class PythonTest {
     public static void main(String[] args) {

@@ -1,15 +1,15 @@
-package cn.vobile.java.reflect;
+package cn.yrh.java.reflect;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
 /**
- * Created by vobile on 4/29/15.
+ * Created by yrh on 4/29/15.
  */
 public class ReflectTest {
     public static Car initByDefaultConst() throws Throwable {
         ClassLoader loader = Thread.currentThread().getContextClassLoader();
-        Class clazz = loader.loadClass("cn.vobile.java.reflect.Car");
+        Class clazz = loader.loadClass("cn.yrh.java.reflect.Car");
 
         Constructor cons = clazz.getDeclaredConstructor((Class[]) null);
         Car car = (Car)cons.newInstance();

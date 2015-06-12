@@ -1,7 +1,7 @@
-package cn.vobile.java.threadpool;
+package cn.yrh.java.threadpool;
 
 /**
- * Created by vobile on 5/7/15.
+ * Created by yrh on 5/7/15.
  */
 public class MyThread extends Thread {
     @Override

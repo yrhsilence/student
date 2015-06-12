@@ -1,10 +1,10 @@
-package cn.vobile.java.threadpool;
+package cn.yrh.java.threadpool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by vobile on 5/7/15.
+ * Created by yrh on 5/7/15.
  */
 public class TestCachedThreadPool {
     public static void main(String[] args) {

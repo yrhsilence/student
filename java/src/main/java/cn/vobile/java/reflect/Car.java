@@ -1,7 +1,7 @@
-package cn.vobile.java.reflect;
+package cn.yrh.java.reflect;
 
 /**
- * Created by vobile on 4/29/15.
+ * Created by yrh on 4/29/15.
  */
 public class Car {
     private String brand;
