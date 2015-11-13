@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 public class ReflectTest {
     public static Car initByDefaultConst() throws Throwable {
         ClassLoader loader = Thread.currentThread().getContextClassLoader();
-        Class clazz = loader.loadClass("cn.yrh.java.reflect.Car");
+        Class clazz = loader.loadClass("Car");
 
         Constructor cons = clazz.getDeclaredConstructor((Class[]) null);
         Car car = (Car)cons.newInstance();
